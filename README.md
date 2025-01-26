@@ -7,8 +7,10 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
