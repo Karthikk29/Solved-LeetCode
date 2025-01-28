@@ -6,6 +6,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -42,4 +43,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
