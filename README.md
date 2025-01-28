@@ -47,4 +47,9 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0190-reverse-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
