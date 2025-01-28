@@ -30,4 +30,16 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
