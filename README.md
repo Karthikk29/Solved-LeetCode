@@ -6,6 +6,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -53,4 +54,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0190-reverse-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
