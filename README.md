@@ -20,14 +20,17 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -58,4 +61,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
