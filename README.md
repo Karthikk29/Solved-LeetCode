@@ -11,6 +11,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0283-move-zeroes) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | ------- |
 | [0001-two-sum](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -52,11 +54,13 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +79,9 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
