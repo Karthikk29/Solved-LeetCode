@@ -10,6 +10,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 ## String
@@ -56,6 +58,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -67,6 +70,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
@@ -88,4 +92,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
