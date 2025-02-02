@@ -10,6 +10,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
@@ -102,4 +103,5 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
