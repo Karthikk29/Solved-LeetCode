@@ -59,6 +59,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
+| [2401-count-asterisks](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2401-count-asterisks) |
 ## Sorting
 |  |
 | ------- |
