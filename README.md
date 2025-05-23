@@ -56,6 +56,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
