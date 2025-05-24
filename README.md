@@ -123,4 +123,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
