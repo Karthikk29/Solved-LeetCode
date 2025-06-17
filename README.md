@@ -19,6 +19,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -124,6 +125,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Database
 |  |
 | ------- |
