@@ -56,12 +56,14 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0219-contains-duplicate-ii](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-capitalize-the-title](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2401-count-asterisks) |
@@ -114,6 +116,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
