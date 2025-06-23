@@ -65,6 +65,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0520-detect-capital) |
 | [2235-capitalize-the-title](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2401-count-asterisks) |
 ## Sorting
