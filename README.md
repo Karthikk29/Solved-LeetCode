@@ -57,6 +57,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0812-rotate-string) |
+| [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2235-capitalize-the-title](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2401-count-asterisks) |
 ## Sorting
@@ -119,6 +121,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | ------- |
 | [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
