@@ -108,6 +108,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
@@ -126,6 +127,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -145,4 +147,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
