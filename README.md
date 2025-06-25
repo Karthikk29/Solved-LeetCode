@@ -61,6 +61,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
@@ -82,6 +83,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
@@ -108,6 +110,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
@@ -134,6 +137,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
