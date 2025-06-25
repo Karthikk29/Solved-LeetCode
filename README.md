@@ -66,6 +66,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0812-rotate-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -112,6 +113,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
