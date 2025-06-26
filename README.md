@@ -59,6 +59,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
@@ -68,6 +69,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0520-detect-capital) |
@@ -130,6 +132,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | ------- |
 | [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
@@ -161,4 +164,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
