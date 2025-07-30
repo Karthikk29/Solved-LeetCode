@@ -7,6 +7,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
@@ -168,4 +170,8 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
