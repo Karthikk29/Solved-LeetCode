@@ -22,6 +22,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0283-move-zeroes](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -86,6 +87,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0217-contains-duplicate](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Graph
 |  |
