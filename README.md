@@ -76,6 +76,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0415-add-strings](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0812-rotate-string) |
+| [0953-reverse-only-letters](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2235-capitalize-the-title](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2401-count-asterisks) |
@@ -111,6 +112,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 | [0189-rotate-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0344-reverse-string) |
+| [0953-reverse-only-letters](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Karthikk29/Solved-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Karthikk29/Solved-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Graph
