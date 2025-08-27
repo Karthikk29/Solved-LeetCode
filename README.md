@@ -55,6 +55,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -66,6 +67,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0242-valid-anagram) |
@@ -122,6 +124,7 @@ This repository features my daily LeetCode solutions. I solve coding challenges 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Karthikk29/Solved-LeetCode/tree/master/0070-climbing-stairs) |
